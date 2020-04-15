@@ -1,7 +1,7 @@
 # Coin-flip-Dice-roll
 
 ### Description 
-Console application that allows the user to guess the outcome of a random coin flip or dice roll
+Basic console application that allows the user to guess the outcome of a random coin flip or dice roll
 
 ### User stories
 * As a user I want to be able to guess the outcome of a random coin flip(heads/tails) or a dice roll(1-6).
